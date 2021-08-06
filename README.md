@@ -1,2 +1,2 @@
 # etecs-baixada-santista
-Faça um site que exiba uma lista de links para os sites das Etecs da Baixada Santista, em uma estrutura semelhante a:  Baixada Santista Santos Etec Aristóteles Ferreira Etec Escolástica Rosa São Vicente Etec Ruth Cardoso Guarujá Etec Santos Dumont Cubatão Etec de Cubatão Praia Grande Etec de Praia Grande Mongaguá Etec Adolpho Berezin 😍 Itanhaém Etec de Itanhaém Peruíbe Etec de Peruíbe
+Faça um site que exiba uma lista de links para os sites das Etecs da Baixada Santista, em uma estrutura semelhante as cidades.
